@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:476e3f533d267cf839c2a6f903ab45ff$ -->
+<TextureAtlas imagePath="ui.png">
+    <SubTexture name="ENBtn" x="868" y="1179" width="85" height="85"/>
+    <SubTexture name="ESBtn" x="868" y="1265" width="84" height="85"/>
+    <SubTexture name="PTBtn" x="868" y="1093" width="85" height="85"/>
+    <SubTexture name="adulto_btn" x="868" y="966" width="127" height="126"/>
+    <SubTexture name="amarelo_ui2" x="514" y="479" width="507" height="357" frameX="-1" frameY="-1" frameWidth="511" frameHeight="359"/>
+    <SubTexture name="azul_ui2" x="1" y="357" width="512" height="357" frameX="-1" frameY="0" frameWidth="516" frameHeight="359"/>
+    <SubTexture name="close_btn_ui1" x="1000" y="25" width="23" height="23"/>
+    <SubTexture name="close_btn_ui2" x="153" y="1238" width="39" height="38"/>
+    <SubTexture name="crianca_btn" x="868" y="837" width="129" height="128"/>
+    <SubTexture name="fotos_ui1" x="1000" y="72" width="22" height="21"/>
+    <SubTexture name="fotos_ui2" x="226" y="1156" width="28" height="26"/>
+    <SubTexture name="image_border_ui1" x="954" y="1093" width="65" height="44"/>
+    <SubTexture name="image_border_ui2" x="953" y="1307" width="70" height="45"/>
+    <SubTexture name="info_ui1" x="514" y="444" width="6" height="22"/>
+    <SubTexture name="info_ui2" x="514" y="357" width="8" height="27"/>
+    <SubTexture name="logo" x="259" y="1073" width="236" height="135" frameX="-2" frameY="-3" frameWidth="240" frameHeight="139"/>
+    <SubTexture name="mark_ui1" x="954" y="1255" width="51" height="51"/>
+    <SubTexture name="mark_ui2" x="954" y="1138" width="62" height="62" frameX="-1" frameY="-1" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="mask" x="1" y="1177" width="194" height="9"/>
+    <SubTexture name="mask2" x="1" y="1187" width="183" height="10"/>
+    <SubTexture name="opt_btn_sel_ui1" x="193" y="1229" width="45" height="46"/>
+    <SubTexture name="opt_btn_ui1" x="196" y="1183" width="46" height="45"/>
+    <SubTexture name="opt_fotos_ui2" x="1" y="1274" width="75" height="75"/>
+    <SubTexture name="opt_info_ui2" x="243" y="1209" width="75" height="75"/>
+    <SubTexture name="opt_mais_ui2" x="77" y="1198" width="75" height="75"/>
+    <SubTexture name="opt_video_ui2" x="1" y="1198" width="75" height="75"/>
+    <SubTexture name="papiro2_ui1" x="512" y="837" width="355" height="456" frameX="-5" frameY="-5" frameWidth="365" frameHeight="466"/>
+    <SubTexture name="papiro_ui1" x="1" y="1" width="525" height="355" frameX="-4" frameY="-4" frameWidth="533" frameHeight="365"/>
+    <SubTexture name="play_btn_ui1" x="193" y="1276" width="45" height="45"/>
+    <SubTexture name="play_btn_ui2" x="954" y="1201" width="53" height="53"/>
+    <SubTexture name="plus_ui1" x="1000" y="94" width="20" height="20"/>
+    <SubTexture name="plus_ui2" x="996" y="1008" width="26" height="26"/>
+    <SubTexture name="roxo_ui2" x="1" y="715" width="510" height="357" frameX="-3" frameY="0" frameWidth="516" frameHeight="359"/>
+    <SubTexture name="scroller_ui1" x="1000" y="147" width="7" height="58" frameX="0" frameY="-4" frameWidth="7" frameHeight="66"/>
+    <SubTexture name="scroller_ui2" x="514" y="385" width="7" height="58" frameX="0" frameY="-4" frameWidth="7" frameHeight="66"/>
+    <SubTexture name="select_lang" x="1" y="1073" width="257" height="53" frameX="-1" frameY="-3" frameWidth="259" frameHeight="57"/>
+    <SubTexture name="select_vers" x="1" y="1127" width="224" height="49" frameX="-1" frameY="-5" frameWidth="226" frameHeight="59"/>
+    <SubTexture name="seta_lado_ui1" x="1000" y="115" width="17" height="31"/>
+    <SubTexture name="seta_lado_ui2" x="996" y="966" width="27" height="41"/>
+    <SubTexture name="verde_ui2" x="527" y="1" width="472" height="477" frameX="-1" frameY="0" frameWidth="476" frameHeight="479"/>
+    <SubTexture name="video_ui1" x="1000" y="49" width="22" height="22"/>
+    <SubTexture name="video_ui2" x="226" y="1127" width="28" height="28"/>
+    <SubTexture name="voltar_btn_ui1" x="1000" y="1" width="23" height="23"/>
+    <SubTexture name="voltar_btn_ui2" x="153" y="1198" width="39" height="39"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app>
+  <contents>
+    <galerias>
+      <item cat="14" id="17" titulo="Galeria 1" texto="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão." imagem="" data_pub="2013-07-10" hora_pub="18:27:31">
+	      <item_relacionado id_pai="18" cat="11" id="8" titulo="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " texto="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " img_lst="wallpaper_edigma.jpg" img_int="wallpaper_edigma.jpg" data_pub="2013-06-26" hora_pub="18:27:22" data_item="2013-06-26" />
+          <item_relacionado id_pai="18" cat="11" id="11" titulo="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " texto="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " img_lst="wallpaper_edigma.jpg" img_int="wallpaper_edigma.jpg" data_pub="2013-06-26" hora_pub="18:27:22" data_item="2013-06-26" />
+      </item>
+      <item cat="14" id="18" titulo="Galeria 2" texto="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão." imagem="" data_pub="2013-07-10" hora_pub="18:27:31">
+        <items_relacionados>
+          <item_relacionado id_pai="18" cat="11" id="8" titulo="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " texto="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " img_lst="wallpaper_edigma.jpg" img_int="wallpaper_edigma.jpg" data_pub="2013-06-26" hora_pub="18:27:22" data_item="2013-06-26" />
+          <item_relacionado id_pai="18" cat="11" id="11" titulo="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " texto="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " img_lst="wallpaper_edigma.jpg" img_int="wallpaper_edigma.jpg" data_pub="2013-06-26" hora_pub="18:27:22" data_item="2013-06-26" />
+        </items_relacionados>
+      </item>
+    </galerias>
+  </contents>
+</app>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<screensaver tempo="120" />
+	<trad>
+		<galeria>
+			<pt>GALERIA</pt>
+			<en>GALLERY</en>
+			<es>GALERIA ES</es>
+		</galeria>
+		<videos>
+			<pt>VIDEOS</pt>
+			<en>VIDEOS</en>
+			<es>VIDEOS ES</es>
+		</videos>
+		<mais>
+			<pt>SABER MAIS</pt>
+			<en>MORE</en>
+			<es>SABÉR MAS</es>
+		</mais>
+	</trad>
+</config>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app>
+  <contents>
+    <tipo_publico>
+      <item cat="9" id="14" titulo="Crianças" data_pub="2013-06-27" hora_pub="09:58:26">
+      </item>
+      <item cat="9" id="13" titulo="Adultos" data_pub="2013-06-27" hora_pub="09:58:16">
+      </item>
+    </tipo_publico>
+  </contents>
+</app>

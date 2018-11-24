@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app>
+  <contents>
+    <imagens>
+      <item cat="11" id="8" titulo="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " texto="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " img_lst="wallpaper_edigma.jpg" img_int="wallpaper_edigma.jpg" data_pub="2013-06-26" hora_pub="18:27:22">
+      </item>
+      <item cat="11" id="11" titulo="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " texto="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " img_lst="wallpaper_edigma.jpg" img_int="wallpaper_edigma.jpg" data_pub="2013-06-26" hora_pub="18:27:22">
+      </item>
+    </imagens>
+  </contents>
+</app>

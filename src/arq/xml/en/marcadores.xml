@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app>
+  <contents>
+    <marcadores>
+	    <item cat="8" id="5" titulo="Época Pré e Proto Histórica" epoca="15" seculo_inicio="3" seculo_fim="4" tipo_publico="Crianças" texto="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500, quando uma misturou os caracteres de um texto para criar um espécime de livro. Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia electrónica, mantendo-se essencialmente inalterada. Foi popularizada nos anos 60 com a disponibilização das folhas de Letraset, que continham passagens com Lorem Ipsum, e mais recentemente com os programas de publicação como o Aldus PageMaker que incluem versões do Lorem Ipsum." data_pub="2013-06-26" hora_pub="18:24:46">
+	        <items_relacionados>
+	          <item_relacionado id_pai="5" cat="10" id="7" titulo="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " texto="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500, quando uma misturou os caracteres de um texto para criar um espécime de livro. Este texto não só sobreviveu 5 séculos, mas também o salto para a tipografia electrónica, mantendo-se essencialmente inalterada. Foi popularizada nos anos 60 com a disponibilização das folhas de Letraset, que continham passagens com Lorem Ipsum, e mais recentemente com os programas de publicação como o Aldus PageMaker que incluem versões do Lorem Ipsum." data_pub="2013-06-26" hora_pub="18:27:04" data_item="2013-06-26" />
+	          <item_relacionado id_pai="5" cat="11" id="8" titulo="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " texto="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " img_lst="wallpaper_edigma.jpg" img_int="wallpaper_edigma.jpg" data_pub="2013-06-26" hora_pub="18:27:22" data_item="2013-06-26" />
+	          <item_relacionado id_pai="5" cat="12" id="9" titulo="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " texto="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " img_video="wallpaper_edigma.jpg" video="DISPLAX_Oqtopus.mp4" data_pub="2013-06-26" hora_pub="18:27:37" data_item="2013-06-26" />
+	          <item_relacionado id_pai="5" cat="12" id="10" titulo="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " texto="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " img_video="wallpaper_edigma.jpg" video="DISPLAX_Oqtopus.mp4" data_pub="2013-06-26" hora_pub="18:27:37" data_item="2013-06-26" />
+	          <item_relacionado id_pai="5" cat="11" id="11" titulo="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " texto="O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. " img_lst="wallpaper_edigma.jpg" img_int="wallpaper_edigma.jpg" data_pub="2013-06-26" hora_pub="18:27:22" data_item="2013-06-26" />
+	        </items_relacionados>
+	      </item>
+    </marcadores>
+  </contents>
+</app>

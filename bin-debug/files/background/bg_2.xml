@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:a1a3031b3c8335b67ec9a2712b375f58$ -->
+<TextureAtlas imagePath="bg_2.png">
+    <SubTexture name="lona-3" x="771" y="1" width="768" height="1360"/>
+    <SubTexture name="lona-4" x="1" y="1" width="769" height="1360"/>
+    <SubTexture name="lona-9" x="1540" y="1" width="384" height="1360"/>
+</TextureAtlas>
